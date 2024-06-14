@@ -1,0 +1,38 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#game-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.round {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.round h2 {
+    margin-top: 0;
+}
+
+.actions {
+    margin-left: 20px;
+}
+
+.action {
+    margin-bottom: 10px;
+}
+
+.tuiles {
+    margin-top: 10px;
+}
+
+.tuiles .tuile {
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px solid #333;
+}

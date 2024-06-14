@@ -1,0 +1,2966 @@
+{
+    "historique": [
+        {
+            "manche": 1,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        4,
+                        5,
+                        4,
+                        6,
+                        2,
+                        4,
+                        6,
+                        6
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        4,
+                        5,
+                        2,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        1,
+                        6,
+                        5
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        2,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        1,
+                        5,
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 29,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 29,
+                            "vers": 3
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "24": {
+                    "vers": 1,
+                    "active": true
+                },
+                "25": {
+                    "vers": 2,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 2,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        4,
+                        2,
+                        6,
+                        3,
+                        6,
+                        2,
+                        3,
+                        1
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        6,
+                        5,
+                        2,
+                        3,
+                        4,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        5,
+                        2,
+                        6,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        6,
+                        4,
+                        3
+                    ],
+                    "desConserves": [
+                        3,
+                        5,
+                        6,
+                        6,
+                        3
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 25,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "24": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 3,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        5,
+                        2,
+                        6,
+                        1,
+                        2,
+                        2,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        2,
+                        1,
+                        3,
+                        5,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        5,
+                        5,
+                        2,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        6,
+                        4,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        6,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 26,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 26,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "24": {
+                    "vers": 1,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 4,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        1,
+                        5,
+                        5,
+                        2,
+                        6,
+                        2,
+                        4
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        4,
+                        2,
+                        1,
+                        5,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        2,
+                        2,
+                        6,
+                        1,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        2,
+                        2,
+                        5,
+                        6,
+                        5,
+                        2
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 24,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 5,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        1,
+                        6,
+                        1,
+                        6,
+                        4,
+                        4,
+                        2,
+                        6
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        3,
+                        3,
+                        6,
+                        5,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        5,
+                        4,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 28,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 29,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 28,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 6,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        4,
+                        2,
+                        4,
+                        3,
+                        1,
+                        4,
+                        4
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        3,
+                        4,
+                        3,
+                        4,
+                        2,
+                        1
+                    ],
+                    "desConserves": [
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        3,
+                        6,
+                        1,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        1,
+                        4,
+                        1,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        4,
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 21,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 7,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        1,
+                        2,
+                        1,
+                        4,
+                        6,
+                        1,
+                        4,
+                        2
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        3,
+                        2,
+                        6,
+                        6,
+                        6,
+                        1,
+                        5
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        5,
+                        2,
+                        5,
+                        6,
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        1,
+                        1,
+                        3,
+                        5,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 26,
+                    "origine": "Carreau",
+                    "TuileRetournee": 26
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 8,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        2,
+                        4,
+                        5,
+                        1,
+                        3,
+                        3,
+                        4,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        1,
+                        6,
+                        6,
+                        1,
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        2,
+                        6,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        2,
+                        4,
+                        4
+                    ],
+                    "desConserves": [
+                        3,
+                        5,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 30,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 9,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        5,
+                        5,
+                        6,
+                        4,
+                        3,
+                        3,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        6,
+                        1,
+                        2,
+                        2,
+                        6,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        3,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        2,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 28,
+                    "origine": "Pique",
+                    "TuileRetournee": 28
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 10,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        5,
+                        3,
+                        2,
+                        5,
+                        3,
+                        3,
+                        4
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        4,
+                        6,
+                        5,
+                        4,
+                        6
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 23,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 23,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 11,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        5,
+                        3,
+                        2,
+                        2,
+                        1,
+                        2,
+                        2
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        3,
+                        1,
+                        2,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        2,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        5,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        4,
+                        5,
+                        4,
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 29,
+                    "origine": "Pique",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 29,
+                            "vers": 3
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 12,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        3,
+                        4,
+                        1,
+                        2,
+                        2,
+                        5,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        6,
+                        3,
+                        5,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        3,
+                        3,
+                        5,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        4,
+                        1,
+                        6,
+                        1
+                    ],
+                    "desConserves": [
+                        4,
+                        6,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 30,
+                    "origine": "Trefle",
+                    "TuileRetournee": 30
+                }
+            ],
+            "tuilesDispo": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 13,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        4,
+                        6,
+                        4,
+                        2,
+                        1,
+                        2,
+                        6,
+                        2
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        1,
+                        4,
+                        3,
+                        1,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        2,
+                        3,
+                        5,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        4,
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        4,
+                        2,
+                        5
+                    ],
+                    "desConserves": [
+                        6,
+                        4,
+                        5,
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 22,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 14,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        5,
+                        6,
+                        3,
+                        2,
+                        5,
+                        3,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        4,
+                        6,
+                        4,
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        4,
+                        2,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        2,
+                        5,
+                        4,
+                        5
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 23,
+                    "origine": "Coeur",
+                    "TuileRetournee": 23
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 15,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        5,
+                        2,
+                        3,
+                        4,
+                        6,
+                        2,
+                        1
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        3,
+                        6,
+                        5,
+                        3,
+                        6,
+                        2,
+                        2
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        1,
+                        6,
+                        1,
+                        6,
+                        2,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        2,
+                        2,
+                        1,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        2,
+                        2
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 29,
+                    "origine": "Carreau",
+                    "TuileRetournee": 29
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 16,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        1,
+                        1,
+                        5,
+                        4,
+                        1,
+                        3,
+                        5,
+                        4
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        2,
+                        6,
+                        6,
+                        1,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        6,
+                        3,
+                        5,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        3,
+                        5,
+                        6,
+                        6,
+                        5,
+                        3
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 27,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 17,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        3,
+                        4,
+                        2,
+                        6,
+                        3,
+                        6,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        1,
+                        4,
+                        2,
+                        5,
+                        5,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        1,
+                        6,
+                        6,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        3
+                    ],
+                    "desConserves": [
+                        1,
+                        5,
+                        6,
+                        5,
+                        6,
+                        1
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 28,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 28,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 18,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        1,
+                        1,
+                        5,
+                        5,
+                        4,
+                        1,
+                        1,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        6,
+                        4,
+                        2,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        6,
+                        5,
+                        3,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        4,
+                        2,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        5,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 27,
+                    "origine": "Trefle",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 19,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        1,
+                        1,
+                        1,
+                        6,
+                        1,
+                        5,
+                        3,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        1,
+                        2,
+                        1,
+                        2,
+                        2,
+                        6,
+                        3
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        2,
+                        4,
+                        5,
+                        3,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        3
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        2,
+                        6,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5,
+                        3
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 20,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        3,
+                        4,
+                        3,
+                        3,
+                        3,
+                        3,
+                        1
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        5,
+                        3,
+                        1,
+                        5,
+                        2,
+                        5
+                    ],
+                    "desConserves": [
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        3,
+                        6,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        4,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        5,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        4,
+                        6,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 30,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 21,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        4,
+                        3,
+                        4,
+                        4,
+                        3,
+                        3,
+                        5,
+                        6
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        4,
+                        2,
+                        1,
+                        3,
+                        1,
+                        5
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        2,
+                        4,
+                        1,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        2,
+                        3,
+                        4,
+                        4
+                    ],
+                    "desConserves": [
+                        5,
+                        4,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 28,
+                    "origine": "Pique",
+                    "TuileRetournee": 28
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 22,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        5,
+                        3,
+                        4,
+                        6,
+                        5,
+                        2,
+                        5,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        1,
+                        6,
+                        1,
+                        5,
+                        3,
+                        1
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        2,
+                        5,
+                        1,
+                        5
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        3,
+                        3,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        3,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 27,
+                    "origine": "Coeur",
+                    "TuileRetournee": 27
+                }
+            ],
+            "tuilesDispo": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 23,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        2,
+                        5,
+                        6,
+                        3,
+                        3,
+                        5,
+                        6,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        4,
+                        3,
+                        1,
+                        6,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "desConserves": [
+                        4,
+                        6,
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 23,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 23,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 24,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        1,
+                        2,
+                        2,
+                        2,
+                        6,
+                        5,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        4,
+                        4,
+                        5,
+                        4,
+                        6,
+                        6
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        1,
+                        6,
+                        3,
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        1,
+                        2
+                    ],
+                    "desConserves": [
+                        5,
+                        5,
+                        3,
+                        6,
+                        3
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 30,
+                    "origine": "Trefle",
+                    "TuileRetournee": 30
+                }
+            ],
+            "tuilesDispo": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 25,
+            "joueur": "Pique",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        2,
+                        6,
+                        4,
+                        1,
+                        4,
+                        6,
+                        2
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        5,
+                        3,
+                        6,
+                        2
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        1,
+                        5,
+                        1,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        1,
+                        6,
+                        5,
+                        1,
+                        6,
+                        1
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 26,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 26,
+                            "vers": 2
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "27": {
+                    "vers": 2,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 26,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        2,
+                        5,
+                        1,
+                        6,
+                        2,
+                        5,
+                        2
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        6,
+                        1,
+                        6,
+                        4,
+                        2,
+                        2
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        2,
+                        6,
+                        2,
+                        6,
+                        3,
+                        4
+                    ],
+                    "desConserves": [
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        2,
+                        1,
+                        6,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
+                        4,
+                        3
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 21,
+                    "origine": "Coeur",
+                    "TuileRetournee": 21
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 27,
+            "joueur": "Carreau",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        3,
+                        6,
+                        6,
+                        1,
+                        6,
+                        5,
+                        6,
+                        3
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        5,
+                        2,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 21,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 23,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": []
+        },
+        {
+            "manche": 28,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        1,
+                        1,
+                        1,
+                        3,
+                        2,
+                        5,
+                        6,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        3,
+                        6,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        4,
+                        3,
+                        4,
+                        6,
+                        3
+                    ],
+                    "desConserves": [
+                        4,
+                        4,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        5,
+                        4,
+                        5
+                    ],
+                    "desConserves": [
+                        4,
+                        3,
+                        4,
+                        6,
+                        3
+                    ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 24,
+                    "origine": "Trefle",
+                    "TuileRetournee": 24
+                }
+            ],
+            "tuilesDispo": []
+        }
+    ],
+    "FinPartie": {
+        "joueurs": {
+            "Pique": {
+                "score": 3,
+                "tuiles": [
+                    {
+                        "numero": 22,
+                        "vers": 1
+                    },
+                    {
+                        "numero": 26,
+                        "vers": 2
+                    }
+                ]
+            },
+            "Coeur": {
+                "score": 2,
+                "tuiles": [
+                    {
+                        "numero": 25,
+                        "vers": 2
+                    }
+                ]
+            },
+            "Carreau": {
+                "score": 2,
+                "tuiles": [
+                    {
+                        "numero": 23,
+                        "vers": 1
+                    },
+                    {
+                        "numero": 21,
+                        "vers": 1
+                    }
+                ]
+            },
+            "Trefle": {
+                "score": 0,
+                "tuiles": []
+            }
+        }
+    },
+    "Notes": [
+        {
+            "nom": "Pique",
+            "note": 3
+        },
+        {
+            "nom": "Coeur",
+            "note": 2
+        },
+        {
+            "nom": "Carreau",
+            "note": 2
+        },
+        {
+            "nom": "Trefle",
+            "note": 0
+        }
+    ]
+}
