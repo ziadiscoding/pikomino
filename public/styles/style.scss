@@ -1,38 +1,71 @@
-/* styles.css */
-body {
-    font-family: Arial, sans-serif;
+/* style.css */
+
+#board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
 }
 
-#game-container {
-    width: 80%;
-    margin: 0 auto;
+#players {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
 }
 
-.round {
-    border: 1px solid #ccc;
-    margin: 20px 0;
-    padding: 10px;
-}
-
-.round h2 {
-    margin-top: 0;
-}
-
-.actions {
-    margin-left: 20px;
-}
-
-.action {
-    margin-bottom: 10px;
-}
-
-.tuiles {
+.player-tiles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
     margin-top: 10px;
 }
 
-.tuiles .tuile {
-    display: inline-block;
-    margin-right: 5px;
+.player-tiles .tuile {
+    background-color: lightblue;
     padding: 5px;
-    border: 1px solid #333;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+#tuiles-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#rounds-container {
+    margin-top: 20px;
+    width: 80%;
+    border: 1px solid black;
+    padding: 10px;
+    overflow-y: auto;
+    max-height: 400px;
+}
+
+.round {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.round h2 {
+    margin: 5px 0;
+}
+
+.actions {
+    margin-top: 5px;
+}
+
+.action {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
 }

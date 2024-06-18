@@ -8,8 +8,23 @@
     <script src="../public/scripts/script.js" defer></script>
 </head>
 <body>
-    <div id="game-container">
-        <h1>Pikomino Game Visualization</h1>
+    <div id="board">
+        <div id="players">
+            <div id="Pique">Joueur Pique: 0 points</div>
+            <div id="Pique-tiles" class="player-tiles"></div>
+
+            <div id="Coeur">Joueur Coeur: 0 points</div>
+            <div id="Coeur-tiles" class="player-tiles"></div>
+
+            <div id="Carreau">Joueur Carreau: 0 points</div>
+            <div id="Carreau-tiles" class="player-tiles"></div>
+
+            <div id="Trefle">Joueur Trefle: 0 points</div>
+            <div id="Trefle-tiles" class="player-tiles"></div>
+        </div>
+
+        <div id="tuiles-container"></div>
+
         <div id="rounds-container"></div>
     </div>
 </body>

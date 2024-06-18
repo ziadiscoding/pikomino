@@ -8,14 +8,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        4,
+                        3,
                         5,
                         4,
+                        1,
                         6,
-                        2,
                         4,
                         6,
-                        6
+                        4
                     ],
                     "desConserves": []
                 },
@@ -24,13 +24,13 @@
                     "valConservee": 5,
                     "desLances": [
                         5,
+                        6,
+                        1,
                         4,
-                        5,
-                        2,
-                        2
+                        3,
+                        5
                     ],
                     "desConserves": [
-                        6,
                         6,
                         6
                     ]
@@ -41,172 +41,30 @@
                     "desLances": [
                         1,
                         6,
+                        6,
+                        6
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        6,
                         5
-                    ],
-                    "desConserves": [
-                        5,
-                        5,
-                        6,
-                        6,
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        2,
-                        3
-                    ],
-                    "desConserves": [
-                        5,
-                        1,
-                        5,
-                        6,
-                        6,
-                        6
-                    ]
-                },
-                {
-                    "action": "picore_tuile",
-                    "numero": 29,
-                    "origine": "centreTable",
-                    "tuilesPicorees": [
-                        {
-                            "numero": 29,
-                            "vers": 3
-                        }
-                    ]
-                }
-            ],
-            "tuilesDispo": {
-                "21": {
-                    "vers": 1,
-                    "active": true
-                },
-                "22": {
-                    "vers": 1,
-                    "active": true
-                },
-                "23": {
-                    "vers": 1,
-                    "active": true
-                },
-                "24": {
-                    "vers": 1,
-                    "active": true
-                },
-                "25": {
-                    "vers": 2,
-                    "active": true
-                },
-                "26": {
-                    "vers": 2,
-                    "active": true
-                },
-                "27": {
-                    "vers": 2,
-                    "active": true
-                },
-                "28": {
-                    "vers": 2,
-                    "active": true
-                },
-                "30": {
-                    "vers": 3,
-                    "active": true
-                },
-                "31": {
-                    "vers": 3,
-                    "active": true
-                },
-                "32": {
-                    "vers": 3,
-                    "active": true
-                },
-                "33": {
-                    "vers": 4,
-                    "active": true
-                },
-                "34": {
-                    "vers": 4,
-                    "active": true
-                },
-                "35": {
-                    "vers": 4,
-                    "active": true
-                },
-                "36": {
-                    "vers": 4,
-                    "active": true
-                }
-            }
-        },
-        {
-            "manche": 2,
-            "joueur": "Coeur",
-            "actions": [
-                {
-                    "action": "conserve_de",
-                    "valConservee": 6,
-                    "desLances": [
-                        4,
-                        2,
-                        6,
-                        3,
-                        6,
-                        2,
-                        3,
-                        1
-                    ],
-                    "desConserves": []
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 5,
-                    "desLances": [
-                        6,
-                        5,
-                        2,
-                        3,
-                        4,
-                        3
-                    ],
-                    "desConserves": [
-                        6,
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        3,
-                        5,
-                        2,
-                        6,
-                        3
-                    ],
-                    "desConserves": [
-                        5,
-                        6,
-                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
+                        2,
                         6,
-                        4,
-                        3
+                        4
                     ],
                     "desConserves": [
-                        3,
                         5,
+                        1,
                         6,
                         6,
-                        3
+                        5
                     ]
                 },
                 {
@@ -250,6 +108,252 @@
                     "vers": 2,
                     "active": true
                 },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "24": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            }
+        },
+        {
+            "manche": 2,
+            "joueur": "Coeur",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        4,
+                        1,
+                        5,
+                        1,
+                        6,
+                        3,
+                        5
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        6,
+                        3,
+                        5,
+                        5,
+                        6,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        4,
+                        3,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 24,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
                 "30": {
                     "vers": 3,
                     "active": true
@@ -286,33 +390,33 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        6,
+                        3,
+                        2,
+                        4,
                         5,
-                        2,
-                        6,
                         1,
-                        2,
-                        2,
-                        3
+                        3,
+                        4,
+                        4
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        5,
                         2,
-                        1,
                         3,
                         5,
-                        2
+                        6,
+                        6,
+                        3,
+                        6
                     ],
                     "desConserves": [
-                        6,
-                        6
+                        5
                     ]
                 },
                 {
@@ -320,40 +424,40 @@
                     "valConservee": 2,
                     "desLances": [
                         5,
-                        5,
                         2,
-                        6
+                        2,
+                        1
                     ],
                     "desConserves": [
-                        6,
                         5,
                         6,
-                        5
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        6,
-                        4,
-                        6
+                        3,
+                        4
                     ],
                     "desConserves": [
-                        6,
+                        2,
+                        2,
                         5,
                         6,
-                        2,
-                        5
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 26,
+                    "numero": 28,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 26,
+                            "numero": 28,
                             "vers": 2
                         }
                     ]
@@ -372,16 +476,70 @@
                     "vers": 1,
                     "active": true
                 },
-                "24": {
-                    "vers": 1,
+                "26": {
+                    "vers": 2,
                     "active": true
                 },
                 "27": {
                     "vers": 2,
                     "active": true
                 },
-                "28": {
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
                     "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "30": {
@@ -422,14 +580,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        2,
-                        1,
-                        5,
-                        5,
-                        2,
                         6,
                         2,
-                        4
+                        5,
+                        2,
+                        4,
+                        6,
+                        6,
+                        3
                     ],
                     "desConserves": []
                 },
@@ -437,15 +595,15 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        4,
-                        4,
-                        2,
                         1,
-                        5,
+                        2,
+                        4,
                         5,
                         1
                     ],
                     "desConserves": [
+                        6,
+                        6,
                         6
                     ]
                 },
@@ -455,40 +613,24 @@
                     "desLances": [
                         2,
                         2,
-                        6,
-                        1,
+                        2,
                         2
                     ],
                     "desConserves": [
-                        5,
-                        6,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        3,
-                        5
-                    ],
-                    "desConserves": [
-                        2,
-                        2,
-                        5,
                         6,
                         5,
-                        2
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 24,
-                    "origine": "centreTable",
+                    "numero": 28,
+                    "origine": "Carreau",
                     "tuilesPicorees": [
                         {
-                            "numero": 24,
-                            "vers": 1
+                            "numero": 28,
+                            "vers": 2
                         }
                     ]
                 }
@@ -506,12 +648,70 @@
                     "vers": 1,
                     "active": true
                 },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
                 "27": {
                     "vers": 2,
                     "active": true
                 },
-                "28": {
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
                     "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "30": {
@@ -550,63 +750,79 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        1,
-                        6,
-                        1,
-                        6,
-                        4,
                         4,
                         2,
-                        6
+                        2,
+                        3,
+                        1,
+                        5,
+                        5,
+                        4
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
+                        1,
+                        4,
+                        6,
+                        4,
                         3,
+                        5
+                    ],
+                    "desConserves": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        5,
                         3,
                         6,
-                        5,
-                        3
+                        1,
+                        5
                     ],
                     "desConserves": [
                         6,
-                        6,
-                        6
+                        5,
+                        5
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        2,
-                        5,
+                        6,
                         4,
-                        4
+                        2,
+                        5
                     ],
                     "desConserves": [
-                        6,
+                        3,
                         6,
                         5,
-                        6
+                        5
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 28,
+                    "numero": 22,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 29,
-                            "vers": 3
+                            "numero": 25,
+                            "vers": 2
                         },
                         {
-                            "numero": 28,
-                            "vers": 2
+                            "numero": 22,
+                            "vers": 1
                         }
                     ]
                 }
@@ -616,7 +832,53 @@
                     "vers": 1,
                     "active": true
                 },
-                "22": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "33": {
+                    "vers": 4,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
                     "vers": 1,
                     "active": true
                 },
@@ -624,8 +886,16 @@
                     "vers": 1,
                     "active": true
                 },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
                 "27": {
                     "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "30": {
@@ -664,85 +934,85 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        5,
-                        4,
                         2,
-                        4,
+                        6,
                         3,
-                        1,
-                        4,
-                        4
+                        6,
+                        2,
+                        5,
+                        6,
+                        6
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 4,
+                    "valConservee": 5,
                     "desLances": [
-                        2,
-                        3,
-                        4,
-                        3,
-                        4,
-                        2,
-                        1
+                        6,
+                        5,
+                        6,
+                        4
                     ],
                     "desConserves": [
-                        5
+                        6,
+                        6,
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 4,
+                    "desLances": [
+                        4,
+                        2,
+                        5
+                    ],
+                    "desConserves": [
+                        6,
+                        5,
+                        6,
+                        6,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
                     "desLances": [
                         2,
-                        3,
-                        6,
-                        1,
                         2
                     ],
                     "desConserves": [
-                        5,
-                        4,
-                        4
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        1,
-                        4,
-                        1,
-                        3
-                    ],
-                    "desConserves": [
-                        5,
                         4,
                         6,
-                        4
+                        5,
+                        6,
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 21,
+                    "numero": 33,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 25,
-                            "vers": 2
+                            "numero": 24,
+                            "vers": 1
                         },
                         {
-                            "numero": 21,
-                            "vers": 1
+                            "numero": 33,
+                            "vers": 4
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "22": {
+                "21": {
                     "vers": 1,
                     "active": true
                 },
@@ -750,8 +1020,16 @@
                     "vers": 1,
                     "active": true
                 },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
                 "27": {
                     "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "30": {
@@ -766,8 +1044,50 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "27": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
@@ -792,30 +1112,30 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        1,
+                        4,
                         2,
                         1,
-                        4,
                         6,
+                        3,
                         1,
-                        4,
-                        2
+                        6,
+                        4
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 4,
                     "desLances": [
                         3,
-                        2,
+                        3,
                         6,
-                        6,
-                        6,
-                        1,
-                        5
+                        4,
+                        3,
+                        2
                     ],
                     "desConserves": [
+                        6,
                         6
                     ]
                 },
@@ -823,43 +1143,48 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        5,
+                        6,
                         2,
-                        5,
-                        6,
                         3,
-                        5
-                    ],
-                    "desConserves": [
                         6,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 1,
-                    "desLances": [
-                        1,
-                        1,
-                        3,
-                        5,
                         6
                     ],
                     "desConserves": [
                         6,
-                        3,
-                        5
+                        4,
+                        6
                     ]
                 },
                 {
-                    "action": "rend_tuile",
-                    "numero": 26,
-                    "origine": "Carreau",
-                    "TuileRetournee": 26
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        2,
+                        5,
+                        3,
+                        5
+                    ],
+                    "desConserves": [
+                        3,
+                        6,
+                        4,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 27,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        }
+                    ]
                 }
             ],
             "tuilesDispo": {
-                "22": {
+                "21": {
                     "vers": 1,
                     "active": true
                 },
@@ -871,8 +1196,8 @@
                     "vers": 2,
                     "active": true
                 },
-                "27": {
-                    "vers": 2,
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "30": {
@@ -887,8 +1212,46 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
@@ -896,6 +1259,10 @@
                     "active": true
                 },
                 "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
                     "vers": 4,
                     "active": true
                 }
@@ -907,48 +1274,32 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        2,
                         4,
-                        5,
+                        6,
+                        3,
                         1,
-                        3,
-                        3,
-                        4,
+                        2,
+                        2,
+                        5,
                         3
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
-                    "desLances": [
-                        2,
-                        1,
-                        6,
-                        6,
-                        1,
-                        3,
-                        5
-                    ],
-                    "desConserves": [
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
                         3,
-                        2,
+                        3,
                         6,
-                        5,
+                        2,
+                        2,
+                        2,
                         1
                     ],
                     "desConserves": [
-                        5,
-                        6,
                         6
                     ]
                 },
@@ -956,36 +1307,43 @@
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        4,
-                        2,
-                        4,
+                        3,
+                        6,
+                        1,
+                        6,
                         4
                     ],
                     "desConserves": [
                         3,
-                        5,
                         6,
-                        6
+                        3
                     ]
                 },
                 {
-                    "action": "picore_tuile",
-                    "numero": 30,
-                    "origine": "centreTable",
-                    "tuilesPicorees": [
-                        {
-                            "numero": 24,
-                            "vers": 1
-                        },
-                        {
-                            "numero": 30,
-                            "vers": 3
-                        }
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        6,
+                        4,
+                        1,
+                        3
+                    ],
+                    "desConserves": [
+                        3,
+                        6,
+                        3,
+                        4
                     ]
+                },
+                {
+                    "action": "rend_tuile",
+                    "numero": 28,
+                    "origine": "Trefle",
+                    "TuileRetournee": 36
                 }
             ],
             "tuilesDispo": {
-                "22": {
+                "21": {
                     "vers": 1,
                     "active": true
                 },
@@ -997,8 +1355,16 @@
                     "vers": 2,
                     "active": true
                 },
-                "27": {
+                "28": {
                     "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
                     "active": true
                 },
                 "31": {
@@ -1009,8 +1375,46 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
@@ -1020,6 +1424,10 @@
                 "35": {
                     "vers": 4,
                     "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1031,61 +1439,86 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
+                        1,
+                        5,
+                        1,
+                        2,
+                        5,
                         6,
                         5,
-                        5,
-                        6,
-                        4,
-                        3,
-                        3,
-                        5
+                        3
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 2,
+                    "valConservee": 5,
                     "desLances": [
-                        6,
+                        5,
+                        3,
+                        2,
+                        2,
                         1,
-                        2,
-                        2,
-                        6,
-                        2
+                        5,
+                        6
                     ],
                     "desConserves": [
-                        6,
                         6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        3,
+                        1,
+                        5,
+                        5,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        4,
+                        6,
                         3,
+                        4,
                         6
                     ],
                     "desConserves": [
+                        5,
+                        3,
                         6,
-                        6,
-                        2,
-                        2,
-                        2
+                        5
                     ]
                 },
                 {
-                    "action": "rend_tuile",
-                    "numero": 28,
-                    "origine": "Pique",
-                    "TuileRetournee": 28
+                    "action": "picore_tuile",
+                    "numero": 21,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        }
+                    ]
                 }
             ],
             "tuilesDispo": {
-                "22": {
-                    "vers": 1,
-                    "active": true
-                },
                 "23": {
                     "vers": 1,
                     "active": true
@@ -1094,12 +1527,16 @@
                     "vers": 2,
                     "active": true
                 },
-                "27": {
+                "28": {
                     "vers": 2,
                     "active": true
                 },
-                "28": {
-                    "vers": 2,
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
                     "active": true
                 },
                 "31": {
@@ -1110,13 +1547,55 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
                     "vers": 4,
                     "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1126,33 +1605,65 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        5,
-                        5,
-                        3,
                         2,
+                        1,
+                        2,
+                        2,
+                        3,
+                        6,
                         5,
-                        3,
-                        3,
-                        4
+                        5
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 4,
                     "desLances": [
-                        4,
                         6,
-                        5,
                         4,
-                        6
+                        3,
+                        4,
+                        1,
+                        6,
+                        4
                     ],
                     "desConserves": [
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        3,
                         5,
+                        6,
+                        2
+                    ],
+                    "desConserves": [
+                        4,
+                        4,
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        6,
+                        1,
+                        1
+                    ],
+                    "desConserves": [
+                        4,
                         5,
-                        5
+                        4,
+                        6,
+                        4
                     ]
                 },
                 {
@@ -1161,12 +1672,12 @@
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 25,
-                            "vers": 2
+                            "numero": 24,
+                            "vers": 1
                         },
                         {
-                            "numero": 21,
-                            "vers": 1
+                            "numero": 33,
+                            "vers": 4
                         },
                         {
                             "numero": 23,
@@ -1176,20 +1687,20 @@
                 }
             ],
             "tuilesDispo": {
-                "22": {
-                    "vers": 1,
-                    "active": true
-                },
                 "26": {
-                    "vers": 2,
-                    "active": true
-                },
-                "27": {
                     "vers": 2,
                     "active": true
                 },
                 "28": {
                     "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
                     "active": true
                 },
                 "31": {
@@ -1200,13 +1711,51 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "30": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
                     "vers": 4,
                     "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1218,14 +1767,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
+                        4,
                         6,
-                        5,
-                        3,
+                        6,
+                        6,
                         2,
-                        2,
-                        1,
-                        2,
-                        2
+                        4,
+                        6,
+                        1
                     ],
                     "desConserves": []
                 },
@@ -1233,77 +1782,77 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        3,
-                        1,
-                        2,
+                        6,
                         5,
-                        4,
                         3,
-                        3
-                    ],
-                    "desConserves": [
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 4,
-                    "desLances": [
-                        3,
-                        2,
-                        4,
-                        4,
-                        4,
                         4
                     ],
                     "desConserves": [
                         6,
-                        5
+                        6,
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        5,
+                        2,
+                        6,
                         3
                     ],
                     "desConserves": [
                         6,
-                        4,
+                        6,
+                        6,
                         5,
-                        4,
-                        4,
-                        4
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        2,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        6,
+                        5,
+                        6,
+                        3
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 29,
-                    "origine": "Pique",
+                    "numero": 30,
+                    "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 29,
+                            "numero": 27,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 30,
                             "vers": 3
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "22": {
-                    "vers": 1,
-                    "active": true
-                },
                 "26": {
-                    "vers": 2,
-                    "active": true
-                },
-                "27": {
                     "vers": 2,
                     "active": true
                 },
                 "28": {
                     "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
                     "active": true
                 },
                 "31": {
@@ -1314,13 +1863,47 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
                     "active": true
                 },
                 "34": {
                     "vers": 4,
                     "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": true
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1330,84 +1913,38 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        4,
+                        6,
                         3,
-                        4,
+                        2,
                         1,
+                        3,
                         2,
-                        2,
-                        5,
-                        5
+                        4,
+                        1
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
-                    "desLances": [
-                        3,
-                        6,
-                        3,
-                        5,
-                        5,
-                        1
-                    ],
-                    "desConserves": [
-                        5,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        4,
-                        3,
-                        3,
-                        5,
-                        3
-                    ],
-                    "desConserves": [
                         6,
-                        5,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 1,
-                    "desLances": [
+                        4,
+                        2,
+                        4,
                         4,
                         1,
-                        6,
-                        1
+                        6
                     ],
                     "desConserves": [
-                        4,
-                        6,
-                        5,
-                        5
+                        6
                     ]
-                },
-                {
-                    "action": "rend_tuile",
-                    "numero": 30,
-                    "origine": "Trefle",
-                    "TuileRetournee": 30
                 }
             ],
             "tuilesDispo": {
-                "22": {
-                    "vers": 1,
-                    "active": true
-                },
                 "26": {
-                    "vers": 2,
-                    "active": true
-                },
-                "27": {
                     "vers": 2,
                     "active": true
                 },
@@ -1415,7 +1952,7 @@
                     "vers": 2,
                     "active": true
                 },
-                "30": {
+                "29": {
                     "vers": 3,
                     "active": true
                 },
@@ -1427,9 +1964,43 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
                     "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                },
+                "34": {
+                    "vers": 4,
+                    "active": true
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1441,27 +2012,27 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        4,
-                        6,
-                        4,
+                        2,
+                        2,
                         2,
                         1,
-                        2,
                         6,
-                        2
+                        1,
+                        6,
+                        5
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 4,
+                    "valConservee": 3,
                     "desLances": [
+                        6,
                         3,
                         1,
-                        4,
-                        3,
+                        6,
                         1,
-                        4
+                        3
                     ],
                     "desConserves": [
                         6,
@@ -1472,52 +2043,47 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        2,
-                        3,
                         5,
-                        2
-                    ],
-                    "desConserves": [
                         6,
                         4,
+                        1
+                    ],
+                    "desConserves": [
+                        3,
                         6,
-                        4
+                        6,
+                        3
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 2,
+                    "valConservee": 1,
                     "desLances": [
-                        4,
-                        2,
-                        5
+                        3,
+                        5,
+                        1
                     ],
                     "desConserves": [
-                        6,
-                        4,
                         5,
+                        3,
                         6,
-                        4
+                        6,
+                        3
                     ]
                 },
                 {
-                    "action": "picore_tuile",
-                    "numero": 22,
-                    "origine": "centreTable",
-                    "tuilesPicorees": [
-                        {
-                            "numero": 22,
-                            "vers": 1
-                        }
-                    ]
+                    "action": "rend_tuile",
+                    "numero": 21,
+                    "origine": "Pique",
+                    "TuileRetournee": 34
                 }
             ],
             "tuilesDispo": {
-                "26": {
-                    "vers": 2,
+                "21": {
+                    "vers": 1,
                     "active": true
                 },
-                "27": {
+                "26": {
                     "vers": 2,
                     "active": true
                 },
@@ -1525,7 +2091,33 @@
                     "vers": 2,
                     "active": true
                 },
-                "30": {
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
                     "vers": 3,
                     "active": true
                 },
@@ -1537,9 +2129,17 @@
                     "vers": 3,
                     "active": true
                 },
-                "33": {
+                "34": {
                     "vers": 4,
-                    "active": true
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1551,14 +2151,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        6,
                         5,
+                        4,
                         6,
                         3,
-                        2,
                         5,
                         3,
-                        3
+                        5,
+                        4
                     ],
                     "desConserves": []
                 },
@@ -1566,31 +2166,31 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        4,
-                        4,
-                        6,
-                        4,
+                        2,
+                        1,
+                        5,
+                        2,
                         3,
+                        6,
                         5
                     ],
                     "desConserves": [
-                        6,
                         6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 4,
+                    "valConservee": 3,
                     "desLances": [
-                        3,
-                        4,
+                        6,
+                        5,
                         2,
                         5,
-                        1
+                        3
                     ],
                     "desConserves": [
                         6,
-                        6,
+                        5,
                         5
                     ]
                 },
@@ -1598,15 +2198,15 @@
                     "action": "conserve_de",
                     "valConservee": 2,
                     "desLances": [
-                        2,
-                        5,
-                        4,
-                        5
+                        1,
+                        6,
+                        3,
+                        2
                     ],
                     "desConserves": [
                         6,
-                        6,
-                        4,
+                        5,
+                        3,
                         5
                     ]
                 },
@@ -1614,10 +2214,14 @@
                     "action": "rend_tuile",
                     "numero": 23,
                     "origine": "Coeur",
-                    "TuileRetournee": 23
+                    "TuileRetournee": 32
                 }
             ],
             "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
                 "23": {
                     "vers": 1,
                     "active": true
@@ -1626,7 +2230,29 @@
                     "vers": 2,
                     "active": true
                 },
-                "27": {
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
                     "vers": 2,
                     "active": true
                 },
@@ -1634,7 +2260,7 @@
                     "vers": 2,
                     "active": true
                 },
-                "30": {
+                "29": {
                     "vers": 3,
                     "active": true
                 },
@@ -1644,7 +2270,19 @@
                 },
                 "32": {
                     "vers": 3,
-                    "active": true
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1654,49 +2292,49 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        2,
+                        5,
                         5,
                         2,
                         3,
-                        4,
-                        6,
                         2,
+                        2,
+                        4,
                         1
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 4,
                     "desLances": [
-                        3,
-                        6,
-                        5,
-                        3,
-                        6,
+                        4,
                         2,
-                        2
+                        3,
+                        3,
+                        3,
+                        1
                     ],
                     "desConserves": [
-                        6
+                        5,
+                        5
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 2,
+                    "valConservee": 6,
                     "desLances": [
-                        1,
-                        6,
-                        1,
-                        6,
                         2,
-                        2
+                        5,
+                        5,
+                        1,
+                        6
                     ],
                     "desConserves": [
                         5,
-                        6
+                        5,
+                        4
                     ]
                 },
                 {
@@ -1704,34 +2342,47 @@
                     "valConservee": 3,
                     "desLances": [
                         2,
-                        2,
-                        1,
-                        3
+                        3,
+                        4,
+                        5
                     ],
                     "desConserves": [
                         5,
-                        6,
-                        2,
-                        2
+                        5,
+                        4,
+                        6
                     ]
                 },
                 {
-                    "action": "rend_tuile",
-                    "numero": 29,
-                    "origine": "Carreau",
-                    "TuileRetournee": 29
+                    "action": "picore_tuile",
+                    "numero": 22,
+                    "origine": "Pique",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        }
+                    ]
                 }
             ],
             "tuilesDispo": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
                 "23": {
                     "vers": 1,
                     "active": true
                 },
                 "26": {
-                    "vers": 2,
-                    "active": true
-                },
-                "27": {
                     "vers": 2,
                     "active": true
                 },
@@ -1743,13 +2394,51 @@
                     "vers": 3,
                     "active": true
                 },
-                "30": {
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "23": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
                     "vers": 3,
                     "active": true
                 },
                 "31": {
                     "vers": 3,
                     "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1759,85 +2448,81 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        1,
-                        1,
-                        5,
-                        4,
-                        1,
+                        2,
                         3,
-                        5,
-                        4
+                        2,
+                        6,
+                        2,
+                        3,
+                        1,
+                        2
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 4,
                     "desLances": [
                         2,
-                        2,
                         6,
-                        6,
+                        4,
                         1,
-                        3
-                    ],
-                    "desConserves": [
-                        5,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        6,
-                        3,
-                        5,
-                        3
-                    ],
-                    "desConserves": [
-                        5,
-                        6,
-                        6,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 1,
-                    "desLances": [
-                        5,
+                        4,
+                        2,
                         1
                     ],
                     "desConserves": [
-                        3,
-                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        2,
+                        2,
+                        4,
+                        2,
+                        6
+                    ],
+                    "desConserves": [
+                        4,
                         6,
-                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
                         5,
-                        3
+                        2
+                    ],
+                    "desConserves": [
+                        2,
+                        2,
+                        4,
+                        6,
+                        4,
+                        2
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 27,
+                    "numero": 23,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 24,
+                            "numero": 23,
                             "vers": 1
-                        },
-                        {
-                            "numero": 27,
-                            "vers": 2
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "23": {
+                "21": {
                     "vers": 1,
                     "active": true
                 },
@@ -1853,13 +2538,47 @@
                     "vers": 3,
                     "active": true
                 },
-                "30": {
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "21": {
+                    "vers": 1,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
                     "vers": 3,
                     "active": true
                 },
                 "31": {
                     "vers": 3,
                     "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1869,89 +2588,89 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        3,
-                        3,
+                        5,
+                        1,
+                        1,
+                        5,
                         4,
                         2,
-                        6,
                         3,
-                        6,
-                        5
+                        2
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
                         1,
-                        4,
+                        1,
+                        6,
+                        1,
+                        3,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        6,
                         2,
                         5,
-                        5,
-                        2
-                    ],
-                    "desConserves": [
                         6,
                         6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 1,
-                    "desLances": [
-                        1,
-                        6,
-                        6,
-                        1
                     ],
                     "desConserves": [
                         5,
-                        6,
                         5,
                         6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 3,
+                    "valConservee": 4,
                     "desLances": [
-                        3,
-                        3
+                        2,
+                        1,
+                        6,
+                        4
                     ],
                     "desConserves": [
-                        1,
                         5,
-                        6,
+                        2,
                         5,
-                        6,
-                        1
+                        6
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 28,
+                    "numero": 21,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 22,
-                            "vers": 1
+                            "numero": 25,
+                            "vers": 2
                         },
                         {
-                            "numero": 28,
-                            "vers": 2
+                            "numero": 21,
+                            "vers": 1
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "23": {
-                    "vers": 1,
+                "26": {
+                    "vers": 2,
                     "active": true
                 },
-                "26": {
+                "28": {
                     "vers": 2,
                     "active": true
                 },
@@ -1959,13 +2678,43 @@
                     "vers": 3,
                     "active": true
                 },
-                "30": {
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
                     "vers": 3,
                     "active": true
                 },
                 "31": {
                     "vers": 3,
                     "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -1975,47 +2724,47 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
-                        1,
-                        1,
-                        5,
-                        5,
                         4,
+                        4,
+                        4,
+                        6,
+                        3,
                         1,
                         1,
-                        5
+                        4
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        3,
-                        6,
                         4,
-                        2,
-                        3
+                        3,
+                        1,
+                        4,
+                        5,
+                        4,
+                        5
                     ],
                     "desConserves": [
-                        5,
-                        5,
-                        5
+                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
+                        1,
+                        2,
+                        4,
                         6,
-                        5,
-                        3,
-                        4
+                        6
                     ],
                     "desConserves": [
                         6,
-                        5,
                         5,
                         5
                     ]
@@ -2024,44 +2773,44 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        4,
+                        6,
                         2,
+                        1,
                         3
                     ],
                     "desConserves": [
+                        4,
                         6,
                         5,
-                        5,
-                        4,
                         5
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 27,
-                    "origine": "Trefle",
+                    "numero": 22,
+                    "origine": "Carreau",
                     "tuilesPicorees": [
                         {
-                            "numero": 25,
-                            "vers": 2
-                        },
-                        {
-                            "numero": 21,
+                            "numero": 24,
                             "vers": 1
                         },
                         {
-                            "numero": 27,
-                            "vers": 2
+                            "numero": 33,
+                            "vers": 4
+                        },
+                        {
+                            "numero": 22,
+                            "vers": 1
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "23": {
-                    "vers": 1,
+                "26": {
+                    "vers": 2,
                     "active": true
                 },
-                "26": {
+                "28": {
                     "vers": 2,
                     "active": true
                 },
@@ -2069,13 +2818,43 @@
                     "vers": 3,
                     "active": true
                 },
-                "30": {
+                "31": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
                     "vers": 3,
                     "active": true
                 },
                 "31": {
                     "vers": 3,
                     "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2085,74 +2864,107 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
                         1,
-                        1,
-                        1,
-                        6,
-                        1,
                         5,
-                        3,
+                        1,
+                        2,
+                        5,
+                        5,
+                        1,
                         5
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 3,
-                    "desLances": [
-                        1,
-                        2,
-                        1,
-                        2,
-                        2,
-                        6,
-                        3
-                    ],
-                    "desConserves": [
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 5,
-                    "desLances": [
-                        5,
-                        2,
-                        4,
-                        5,
-                        3,
-                        6
-                    ],
-                    "desConserves": [
-                        6,
-                        3
-                    ]
-                },
-                {
-                    "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        4,
+                        1,
                         2,
-                        6,
-                        2
+                        4,
+                        1
                     ],
                     "desConserves": [
                         5,
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        6,
+                        6,
+                        3
+                    ],
+                    "desConserves": [
+                        5,
+                        4,
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 1,
+                    "desLances": [
+                        1
+                    ],
+                    "desConserves": [
                         6,
                         5,
-                        3
+                        6,
+                        4,
+                        5,
+                        5,
+                        5
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 31,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 31,
+                            "vers": 3
+                        }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "23": {
-                    "vers": 1,
+                "26": {
+                    "vers": 2,
                     "active": true
                 },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
                 "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
                     "vers": 2,
                     "active": true
                 },
@@ -2160,9 +2972,21 @@
                     "vers": 3,
                     "active": true
                 },
-                "30": {
+                "32": {
                     "vers": 3,
-                    "active": true
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2172,16 +2996,16 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 4,
+                    "valConservee": 6,
                     "desLances": [
                         2,
                         3,
-                        4,
                         3,
-                        3,
-                        3,
-                        3,
-                        1
+                        5,
+                        6,
+                        6,
+                        1,
+                        4
                     ],
                     "desConserves": []
                 },
@@ -2189,31 +3013,31 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
+                        2,
                         4,
-                        5,
-                        3,
+                        2,
                         1,
                         5,
-                        2,
-                        5
+                        2
                     ],
                     "desConserves": [
-                        4
+                        6,
+                        6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 4,
                     "desLances": [
-                        6,
+                        2,
                         3,
-                        6,
-                        2
-                    ],
-                    "desConserves": [
                         5,
                         4,
-                        5,
+                        3
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
                         5
                     ]
                 },
@@ -2222,45 +3046,75 @@
                     "valConservee": 2,
                     "desLances": [
                         5,
-                        2
+                        5,
+                        2,
+                        1
                     ],
                     "desConserves": [
-                        6,
-                        5,
                         4,
                         6,
-                        5,
+                        6,
                         5
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 30,
-                    "origine": "centreTable",
+                    "numero": 21,
+                    "origine": "Pique",
                     "tuilesPicorees": [
                         {
-                            "numero": 24,
+                            "numero": 23,
                             "vers": 1
                         },
                         {
-                            "numero": 30,
-                            "vers": 3
+                            "numero": 21,
+                            "vers": 1
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
-                "23": {
-                    "vers": 1,
+                "26": {
+                    "vers": 2,
                     "active": true
                 },
-                "26": {
+                "28": {
                     "vers": 2,
                     "active": true
                 },
                 "29": {
                     "vers": 3,
                     "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": true
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2274,44 +3128,28 @@
                     "desLances": [
                         4,
                         3,
-                        4,
+                        1,
+                        6,
+                        3,
                         4,
                         3,
-                        3,
-                        5,
                         6
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
-                    "desLances": [
-                        5,
-                        4,
-                        2,
-                        1,
-                        3,
-                        1,
-                        5
-                    ],
-                    "desConserves": [
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        3,
-                        2,
                         4,
+                        6,
                         1,
-                        2
+                        1,
+                        6,
+                        3
                     ],
                     "desConserves": [
-                        5,
-                        5,
+                        6,
                         6
                     ]
                 },
@@ -2319,28 +3157,28 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
+                        3,
+                        6,
                         2,
                         3,
-                        4,
-                        4
+                        6
                     ],
                     "desConserves": [
-                        5,
                         4,
-                        5,
+                        6,
                         6
                     ]
                 },
                 {
                     "action": "rend_tuile",
-                    "numero": 28,
+                    "numero": 25,
                     "origine": "Pique",
-                    "TuileRetournee": 28
+                    "TuileRetournee": 29
                 }
             ],
             "tuilesDispo": {
-                "23": {
-                    "vers": 1,
+                "25": {
+                    "vers": 2,
                     "active": true
                 },
                 "26": {
@@ -2351,6 +3189,40 @@
                     "vers": 2,
                     "active": true
                 }
+            },
+            "tuilesDuCentre": {
+                "25": {
+                    "vers": 2,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": true
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
+                }
             }
         },
         {
@@ -2359,86 +3231,124 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        5,
-                        3,
-                        4,
-                        6,
+                        1,
                         5,
                         2,
-                        5,
-                        3
+                        1,
+                        1,
+                        2,
+                        2,
+                        5
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
+                        1,
                         5,
-                        1,
                         6,
-                        1,
                         5,
                         3,
-                        1
+                        5
                     ],
                     "desConserves": [
-                        6
+                        5,
+                        5
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 3,
+                    "valConservee": 4,
                     "desLances": [
-                        3,
+                        6,
+                        1,
+                        5,
+                        4,
+                        1
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 2,
+                    "desLances": [
+                        1,
+                        1,
                         2,
-                        5,
-                        1,
-                        5
+                        2
                     ],
                     "desConserves": [
                         5,
                         6,
-                        5
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 1,
-                    "desLances": [
-                        3,
-                        3,
-                        5,
-                        1
-                    ],
-                    "desConserves": [
-                        5,
-                        3,
-                        6,
+                        4,
                         5
                     ]
                 },
                 {
                     "action": "rend_tuile",
-                    "numero": 27,
+                    "numero": 22,
                     "origine": "Coeur",
-                    "TuileRetournee": 27
+                    "TuileRetournee": 28
                 }
             ],
             "tuilesDispo": {
-                "23": {
+                "22": {
                     "vers": 1,
+                    "active": true
+                },
+                "25": {
+                    "vers": 2,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "22": {
+                    "vers": 1,
+                    "active": true
+                },
+                "25": {
+                    "vers": 2,
                     "active": true
                 },
                 "26": {
                     "vers": 2,
                     "active": true
                 },
-                "27": {
+                "28": {
                     "vers": 2,
-                    "active": true
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2450,14 +3360,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
-                        2,
                         5,
+                        1,
                         6,
-                        3,
-                        3,
-                        5,
-                        6,
-                        3
+                        4,
+                        4,
+                        4,
+                        1,
+                        1
                     ],
                     "desConserves": []
                 },
@@ -2465,54 +3375,116 @@
                     "action": "conserve_de",
                     "valConservee": 4,
                     "desLances": [
-                        3,
-                        4,
-                        3,
+                        6,
                         1,
+                        6,
+                        6,
+                        4,
                         6,
                         4
                     ],
                     "desConserves": [
-                        6,
                         6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 3,
+                    "valConservee": 2,
                     "desLances": [
-                        3,
-                        3,
+                        1,
+                        4,
                         2,
+                        1,
                         2
                     ],
                     "desConserves": [
+                        6,
                         4,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 5,
+                    "desLances": [
+                        4,
+                        1,
+                        5
+                    ],
+                    "desConserves": [
                         6,
-                        6,
+                        2,
+                        4,
+                        2,
                         4
                     ]
                 },
                 {
                     "action": "picore_tuile",
-                    "numero": 23,
+                    "numero": 22,
                     "origine": "centreTable",
                     "tuilesPicorees": [
                         {
-                            "numero": 23,
+                            "numero": 27,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 31,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 22,
                             "vers": 1
                         }
                     ]
                 }
             ],
             "tuilesDispo": {
+                "25": {
+                    "vers": 2,
+                    "active": true
+                },
+                "26": {
+                    "vers": 2,
+                    "active": true
+                }
+            },
+            "tuilesDuCentre": {
+                "25": {
+                    "vers": 2,
+                    "active": true
+                },
                 "26": {
                     "vers": 2,
                     "active": true
                 },
-                "27": {
+                "28": {
                     "vers": 2,
-                    "active": true
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2522,32 +3494,48 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        3,
                         1,
-                        2,
-                        2,
-                        2,
-                        6,
+                        4,
                         5,
+                        4,
+                        1,
+                        4,
+                        4,
                         3
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 5,
+                    "valConservee": 6,
                     "desLances": [
+                        3,
+                        4,
                         5,
-                        4,
-                        4,
-                        5,
-                        4,
                         6,
-                        6
+                        6,
+                        1,
+                        3
                     ],
                     "desConserves": [
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        6,
+                        5,
+                        1,
+                        2,
+                        4
+                    ],
+                    "desConserves": [
+                        5,
+                        6,
                         6
                     ]
                 },
@@ -2555,49 +3543,72 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        1,
-                        6,
                         3,
                         3,
-                        5
-                    ],
-                    "desConserves": [
-                        5,
-                        5,
-                        6
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 4,
-                    "desLances": [
-                        4,
-                        1,
+                        2,
                         2
                     ],
                     "desConserves": [
                         5,
-                        5,
-                        3,
                         6,
-                        3
+                        6,
+                        4
                     ]
                 },
                 {
-                    "action": "rend_tuile",
-                    "numero": 30,
-                    "origine": "Trefle",
-                    "TuileRetournee": 30
+                    "action": "picore_tuile",
+                    "numero": 25,
+                    "origine": "centreTable",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 23,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 21,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 25,
+                            "vers": 2
+                        }
+                    ]
                 }
             ],
             "tuilesDispo": {
                 "26": {
                     "vers": 2,
                     "active": true
-                },
-                "27": {
+                }
+            },
+            "tuilesDuCentre": {
+                "26": {
                     "vers": 2,
                     "active": true
+                },
+                "28": {
+                    "vers": 2,
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2609,13 +3620,13 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
+                        1,
                         6,
                         2,
-                        6,
-                        4,
+                        2,
+                        5,
+                        3,
                         1,
-                        4,
-                        6,
                         2
                     ],
                     "desConserves": []
@@ -2624,70 +3635,80 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        4,
+                        3,
+                        1,
+                        2,
+                        2,
                         5,
                         3,
-                        6,
-                        2
+                        4
                     ],
                     "desConserves": [
-                        6,
-                        6,
                         6
                     ]
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 1,
+                    "valConservee": 4,
                     "desLances": [
-                        1,
-                        5,
-                        1,
-                        1
+                        4,
+                        3,
+                        3,
+                        4,
+                        3,
+                        6
                     ],
                     "desConserves": [
                         6,
-                        6,
-                        5,
-                        6
+                        5
                     ]
                 },
                 {
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
+                        2,
+                        2,
+                        2,
                         3
                     ],
                     "desConserves": [
+                        4,
                         6,
-                        1,
-                        6,
-                        5,
-                        1,
-                        6,
-                        1
-                    ]
-                },
-                {
-                    "action": "picore_tuile",
-                    "numero": 26,
-                    "origine": "centreTable",
-                    "tuilesPicorees": [
-                        {
-                            "numero": 22,
-                            "vers": 1
-                        },
-                        {
-                            "numero": 26,
-                            "vers": 2
-                        }
+                        4,
+                        5
                     ]
                 }
             ],
-            "tuilesDispo": {
-                "27": {
+            "tuilesDispo": [],
+            "tuilesDuCentre": {
+                "26": {
                     "vers": 2,
-                    "active": true
+                    "active": false
+                },
+                "28": {
+                    "vers": 2,
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2697,32 +3718,48 @@
             "actions": [
                 {
                     "action": "conserve_de",
-                    "valConservee": 6,
+                    "valConservee": 5,
                     "desLances": [
-                        3,
-                        2,
-                        5,
                         1,
-                        6,
-                        2,
+                        1,
+                        1,
+                        4,
+                        3,
                         5,
-                        2
+                        3,
+                        1
                     ],
                     "desConserves": []
                 },
                 {
                     "action": "conserve_de",
-                    "valConservee": 4,
+                    "valConservee": 6,
                     "desLances": [
+                        4,
+                        4,
+                        3,
                         2,
-                        6,
                         1,
                         6,
-                        4,
-                        2,
-                        2
+                        5
                     ],
                     "desConserves": [
+                        5
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        3,
+                        4,
+                        2,
+                        4,
+                        3,
+                        4
+                    ],
+                    "desConserves": [
+                        5,
                         6
                     ]
                 },
@@ -2730,45 +3767,58 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        2,
-                        6,
-                        2,
-                        6,
                         3,
-                        4
-                    ],
-                    "desConserves": [
-                        6,
-                        4
-                    ]
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 5,
-                    "desLances": [
-                        5,
                         2,
-                        1,
-                        6,
-                        1
+                        3
                     ],
                     "desConserves": [
-                        6,
                         4,
-                        3
+                        4,
+                        5,
+                        6,
+                        4
                     ]
                 },
                 {
                     "action": "rend_tuile",
-                    "numero": 21,
+                    "numero": 33,
                     "origine": "Coeur",
-                    "TuileRetournee": 21
+                    "TuileRetournee": 33
                 }
             ],
-            "tuilesDispo": {
-                "21": {
-                    "vers": 1,
-                    "active": true
+            "tuilesDispo": [],
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": false
+                },
+                "28": {
+                    "vers": 2,
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "33": {
+                    "vers": 4,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
                 }
             }
         },
@@ -2780,14 +3830,14 @@
                     "action": "conserve_de",
                     "valConservee": 6,
                     "desLances": [
+                        5,
                         3,
-                        6,
-                        6,
+                        3,
                         1,
-                        6,
+                        4,
                         5,
                         6,
-                        3
+                        1
                     ],
                     "desConserves": []
                 },
@@ -2795,65 +3845,12 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        5,
-                        5,
+                        6,
                         2,
-                        6
-                    ],
-                    "desConserves": [
-                        6,
-                        6,
-                        6,
-                        6
-                    ]
-                },
-                {
-                    "action": "picore_tuile",
-                    "numero": 21,
-                    "origine": "centreTable",
-                    "tuilesPicorees": [
-                        {
-                            "numero": 23,
-                            "vers": 1
-                        },
-                        {
-                            "numero": 21,
-                            "vers": 1
-                        }
-                    ]
-                }
-            ],
-            "tuilesDispo": []
-        },
-        {
-            "manche": 28,
-            "joueur": "Trefle",
-            "actions": [
-                {
-                    "action": "conserve_de",
-                    "valConservee": 6,
-                    "desLances": [
-                        1,
-                        1,
-                        1,
-                        3,
-                        2,
+                        4,
                         5,
-                        6,
-                        5
-                    ],
-                    "desConserves": []
-                },
-                {
-                    "action": "conserve_de",
-                    "valConservee": 4,
-                    "desLances": [
+                        1,
                         4,
-                        3,
-                        6,
-                        4,
-                        3,
-                        3,
                         2
                     ],
                     "desConserves": [
@@ -2864,15 +3861,130 @@
                     "action": "conserve_de",
                     "valConservee": 3,
                     "desLances": [
-                        4,
                         3,
-                        4,
-                        6,
-                        3
+                        1,
+                        5,
+                        2,
+                        3,
+                        1
                     ],
                     "desConserves": [
+                        5,
+                        6
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        5,
                         4,
+                        2,
+                        4
+                    ],
+                    "desConserves": [
+                        3,
+                        5,
+                        3,
+                        6
+                    ]
+                },
+                {
+                    "action": "picore_tuile",
+                    "numero": 24,
+                    "origine": "Coeur",
+                    "tuilesPicorees": [
+                        {
+                            "numero": 27,
+                            "vers": 2
+                        },
+                        {
+                            "numero": 30,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 31,
+                            "vers": 3
+                        },
+                        {
+                            "numero": 22,
+                            "vers": 1
+                        },
+                        {
+                            "numero": 24,
+                            "vers": 1
+                        }
+                    ]
+                }
+            ],
+            "tuilesDispo": [],
+            "tuilesDuCentre": {
+                "26": {
+                    "vers": 2,
+                    "active": false
+                },
+                "28": {
+                    "vers": 2,
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "33": {
+                    "vers": 4,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
+                }
+            }
+        },
+        {
+            "manche": 28,
+            "joueur": "Trefle",
+            "actions": [
+                {
+                    "action": "conserve_de",
+                    "valConservee": 6,
+                    "desLances": [
+                        5,
                         4,
+                        2,
+                        6,
+                        6,
+                        2,
+                        2,
+                        4
+                    ],
+                    "desConserves": []
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 4,
+                    "desLances": [
+                        2,
+                        3,
+                        1,
+                        4,
+                        6,
+                        1
+                    ],
+                    "desConserves": [
+                        6,
                         6
                     ]
                 },
@@ -2880,53 +3992,118 @@
                     "action": "conserve_de",
                     "valConservee": 5,
                     "desLances": [
-                        5,
                         4,
-                        5
+                        2,
+                        4,
+                        5,
+                        3
                     ],
                     "desConserves": [
-                        4,
-                        3,
-                        4,
                         6,
-                        3
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "action": "conserve_de",
+                    "valConservee": 3,
+                    "desLances": [
+                        6,
+                        1,
+                        3,
+                        6
+                    ],
+                    "desConserves": [
+                        6,
+                        6,
+                        4,
+                        5
                     ]
                 },
                 {
                     "action": "rend_tuile",
-                    "numero": 24,
+                    "numero": 25,
                     "origine": "Trefle",
-                    "TuileRetournee": 24
+                    "TuileRetournee": 25
                 }
             ],
-            "tuilesDispo": []
+            "tuilesDispo": [],
+            "tuilesDuCentre": {
+                "25": {
+                    "vers": 2,
+                    "active": false
+                },
+                "26": {
+                    "vers": 2,
+                    "active": false
+                },
+                "28": {
+                    "vers": 2,
+                    "active": false
+                },
+                "29": {
+                    "vers": 3,
+                    "active": false
+                },
+                "32": {
+                    "vers": 3,
+                    "active": false
+                },
+                "33": {
+                    "vers": 4,
+                    "active": false
+                },
+                "34": {
+                    "vers": 4,
+                    "active": false
+                },
+                "35": {
+                    "vers": 4,
+                    "active": false
+                },
+                "36": {
+                    "vers": 4,
+                    "active": false
+                }
+            }
         }
     ],
     "FinPartie": {
         "joueurs": {
             "Pique": {
-                "score": 3,
+                "score": 0,
+                "tuiles": []
+            },
+            "Coeur": {
+                "score": 0,
+                "tuiles": []
+            },
+            "Carreau": {
+                "score": 10,
                 "tuiles": [
+                    {
+                        "numero": 27,
+                        "vers": 2
+                    },
+                    {
+                        "numero": 30,
+                        "vers": 3
+                    },
+                    {
+                        "numero": 31,
+                        "vers": 3
+                    },
                     {
                         "numero": 22,
                         "vers": 1
                     },
                     {
-                        "numero": 26,
-                        "vers": 2
+                        "numero": 24,
+                        "vers": 1
                     }
                 ]
             },
-            "Coeur": {
-                "score": 2,
-                "tuiles": [
-                    {
-                        "numero": 25,
-                        "vers": 2
-                    }
-                ]
-            },
-            "Carreau": {
+            "Trefle": {
                 "score": 2,
                 "tuiles": [
                     {
@@ -2938,29 +4115,25 @@
                         "vers": 1
                     }
                 ]
-            },
-            "Trefle": {
-                "score": 0,
-                "tuiles": []
             }
         }
     },
     "Notes": [
         {
             "nom": "Pique",
-            "note": 3
+            "note": 0
         },
         {
             "nom": "Coeur",
-            "note": 2
+            "note": 0
         },
         {
             "nom": "Carreau",
-            "note": 2
+            "note": 10
         },
         {
             "nom": "Trefle",
-            "note": 0
+            "note": 2
         }
     ]
 }
